@@ -1,16 +1,22 @@
 ---
 layout: ../layouts/PostLayout.astro
-title: "Interacción con Mandos en Realidad Extendida (XR)"
-date: 2024-10-27
-author: "Flora Viegas Peñalosa"
-tags: ["XR", "interacción", "mandos", "desarrollo"]
+title: Interacción con Mandos en Realidad Extendida (XR)
+author: Flora Viegas Peñalosa
+pubDatetime: 2024-10-30
+modDatetime: 2024-10-30
+slug: interaccion-mandos-eliteXR-unity
+featured: true
+draft: true
+tags:
+ - XR
+ - interacción
+ - mandos
+ - desarrollo
+description:
+  Explicación de los conceptos básicos para poder agregar interacciones con mandos a nuestra escena en Unity.
 ---
 
 La interacción con mandos es un aspecto crucial en el desarrollo de experiencias de Realidad Extendida (XR), ya que permite a los usuarios interactuar con el entorno virtual de manera intuitiva y precisa. En este post, abordaremos los conceptos clave para integrar y optimizar las interacciones con mandos en proyectos XR.
-
-<div>
-  <img src="/assets/controllers_xr.svg" class="sm:w-1/2 mx-auto" alt="controllers illustration">
-</div>
 
 ## Conceptos Básicos de Interacción con Mandos
 
