@@ -1,9 +1,8 @@
 ---
-layout: ../layouts/PostLayout.astro
-title: Interacción con Mandos en Realidad Extendida (XR)
 author: Flora Viegas Peñalosa
 pubDatetime: 2024-10-30
 modDatetime: 2024-10-30
+title: Interacción con Mandos en Realidad Extendida (XR)
 slug: interaccion-mandos-eliteXR-unity
 featured: true
 draft: true
